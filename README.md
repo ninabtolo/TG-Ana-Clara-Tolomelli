@@ -6,9 +6,9 @@
     <img src="assets/photo.jpeg" height="300" width="225">
   <div>
   <br>
-  Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos, onde iniciei a graduação em agosto de 2023. Desde então, venho me dedicando a construir uma base sólida em programação, lógica, banco de dados e desenvolvimento de software, sempre buscando compreender como a tecnologia pode ser aplicada de forma prática e inteligente. Antes disso, conclui o Ensino Fundamental e Médio no Instituto São José, instituição onde também aprendi a importância da disciplina, do trabalho em equipe e da curiosidade intelectual — valores que hoje levo comigo na jornada acadêmica e profissional.
+  Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos, onde iniciei a graduação em agosto de 2023. Desde então, venho me dedicando a construir uma base sólida em lógica de programação, clean coded e arquitetura de software no geral, sempre buscando compreender como a tecnologia pode ser aplicada de forma prática e inteligente. Antes disso, conclui o Ensino Fundamental e Médio no Instituto São José, instituição onde também aprendi a importância da disciplina e do trabalho em equipe — valores que hoje levo comigo na jornada acadêmica e profissional.
   <br><br>
-  Meu interesse pela área de tecnologia surgiu da minha afinidade com a lógica e da vontade de aplicar esse raciocínio para resolver problemas reais do cotidiano. Sempre achei fascinante como a tecnologia pode simplificar tarefas, conectar pessoas e criar soluções práticas que impactam positivamente. 
+  Sempre achei fascinante como a tecnologia pode simplificar tarefas, conectar pessoas e criar soluções práticas que impactam positivamente.  Meu interesse pela área de tecnologia surgiu da minha afinidade com a lógica e da vontade de aplicar esse raciocínio para resolver problemas reais do cotidiano.
   <br><br>
   Minha motiviação para entar na Fatec foi justamente ter encontrado uma faculdade em minha área de interesse e de boa reputação onde eu moro! 
   Atualmente, ainda não atuo diretamente na área, mas estou em busca ativa de estágio e aberta a novas oportunidades que me permitam crescer profissionalmente e aplicar o que venho aprendendo. Enquanto isso, trabalho com freelances na área de mídias sociais, o que tem me ajudado a desenvolver habilidades importantes como organização, autonomia e comunicação, competências que também pretendo levar para a minha trajetória na tecnologia.
@@ -59,8 +59,9 @@
 
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
- ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+<h3 align="left">UI</h3>
+
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <h2 align="left">🚀 Projetos:</h2>
