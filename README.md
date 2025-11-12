@@ -3,10 +3,10 @@
 <div align="justify">
  <h2 align="left">Sobre mim:</h2>
  <div style="display: inline_block">
-    <img src="assets/photo.jpeg" height="300" width="250">
+    <img src="assets/photo.jpeg" height="300" width="225">
   <div>
   <br>
-  Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos, onde iniciei a graduação em agosto de 2023. Fiz os ensinos Fundamental e Médio completos no Instituto São José. 
+  Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos, onde iniciei a graduação em agosto de 2023. Desde então, venho me dedicando a construir uma base sólida em programação, lógica, banco de dados e desenvolvimento de software, sempre buscando compreender como a tecnologia pode ser aplicada de forma prática e inteligente. Antes disso, conclui o Ensino Fundamental e Médio no Instituto São José, instituição onde também aprendi a importância da disciplina, do trabalho em equipe e da curiosidade intelectual — valores que hoje levo comigo na jornada acadêmica e profissional.
   <br><br>
   Meu interesse pela área de tecnologia surgiu da minha afinidade com a lógica e da vontade de aplicar esse raciocínio para resolver problemas reais do cotidiano. Sempre achei fascinante como a tecnologia pode simplificar tarefas, conectar pessoas e criar soluções práticas que impactam positivamente. 
   <br><br>
@@ -30,30 +30,25 @@
 
  <h3 align="left">Linguagens de Programação</h3>
  
-
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
- <h3 align="left">Frameworks e Bibliotecas </h3>
-
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
- <h3 align="left">Database </h3>
-
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
- <h3 align="left">Linguagens de Marcação</h3>
+  <h3 align="left">Linguagens de Marcação</h3>
  
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+ <h3 align="left">Frameworks e Bibliotecas</h3>
+
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+ ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+ <h3 align="left">Bancos de Dados</h3>
+
+ ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
    
  <h3 align="left">DevOps</h3>
  
@@ -64,7 +59,6 @@
 
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
