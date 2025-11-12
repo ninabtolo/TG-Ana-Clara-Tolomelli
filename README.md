@@ -6,7 +6,7 @@
     <img src="assets/photo.jpeg" height="300" width="225">
   <div>
   <br>
-  Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos, onde iniciei a graduação em agosto de 2023. Desde então, venho me dedicando a construir uma base sólida em lógica de programação, clean coded e arquitetura de software no geral, sempre buscando compreender como a tecnologia pode ser aplicada de forma prática e inteligente. Antes disso, conclui o Ensino Fundamental e Médio no Instituto São José, instituição onde também aprendi a importância da disciplina e do trabalho em equipe — valores que hoje levo comigo na jornada acadêmica e profissional.
+  Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Fatec São José dos Campos, onde iniciei a graduação em agosto de 2023. Desde então, venho me dedicando a construir uma base sólida em lógica de programação, clean code e arquitetura de software no geral, sempre buscando compreender como a tecnologia pode ser aplicada de forma prática e inteligente. Antes disso, conclui o Ensino Fundamental e Médio no Instituto São José, instituição onde também aprendi a importância da disciplina e do trabalho em equipe, valores que hoje levo comigo na jornada acadêmica e profissional.
   <br><br>
   Sempre achei fascinante como a tecnologia pode simplificar tarefas, conectar pessoas e criar soluções práticas que impactam positivamente.  Meu interesse pela área de tecnologia surgiu da minha afinidade com a lógica e da vontade de aplicar esse raciocínio para resolver problemas reais do cotidiano.
   <br><br>
