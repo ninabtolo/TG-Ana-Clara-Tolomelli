@@ -74,7 +74,10 @@
 |:---:|:---:|:---:|:---:|
 | <span style="white-space: nowrap;">1º (2023-2)</span> | Website educativo sobre Método Scrum | Fatec | [api_2023_2](api_2023_2.md) |
 | <span style="white-space: nowrap;">2º (2024-1)</span> | Software para consultas SQL em linguagem natural | Fatec | [api_2024_1](api_2024_1.md) |
-| <span style="white-space: nowrap;">3º (2024-2)</span> | Plataforma para automatização de pesquisas de clima e feedback | Youtan | [api_2024_2](api_2024_2.md) |
-| <span style="white-space: nowrap;">4º (2025-1)</span> | Plataforma para gerenciamento de projetos | FAPG | [api_2025_1](api_2025_1.md) |
+| <span style="white-space: nowrap;">3º (2024-2)</span> | Software para automatização de pesquisas de clima e feedback | Youtan | [api_2024_2](api_2024_2.md) |
+| <span style="white-space: nowrap;">4º (2025-1)</span> | Software para gerenciamento de projetos | FAPG | [api_2025_1](api_2025_1.md) |
+| <span style="white-space: nowrap;">5º (2025-2)</span> | Software para endereçamento digital e roteirização para imóveis do CAR | Visiona | [api_2025_2](api_2025_2.md) |
+| <span style="white-space: nowrap;">6º (2026-1)</span> | Software para gerenciamento inteligente de regras de negócio | Dom Rock | [api_2026_1](api_2026_1.md) |
+
 
 </div>|
