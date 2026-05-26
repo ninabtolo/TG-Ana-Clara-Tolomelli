@@ -80,4 +80,11 @@
 | <span style="white-space: nowrap;">6º (2026-1)</span> | Software para gerenciamento inteligente de regras de negócio | Dom Rock | [api_2026_1](api_2026_1.md) |
 
 
+
+
+
+
+
+
+
 </div>|
