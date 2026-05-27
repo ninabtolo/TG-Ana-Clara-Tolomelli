@@ -11,7 +11,7 @@
   Sempre achei fascinante como a tecnologia pode simplificar tarefas, conectar pessoas e criar soluções práticas que impactam positivamente.  Meu interesse pela área de tecnologia surgiu da minha afinidade com a lógica e da vontade de aplicar esse raciocínio para resolver problemas reais do cotidiano.
   <br><br>
   Minha motiviação para entar na Fatec foi justamente ter encontrado uma faculdade em minha área de interesse e de boa reputação onde eu moro! 
-  Atualmente, ainda não atuo diretamente na área, mas estou em busca ativa de estágio e aberta a novas oportunidades que me permitam crescer profissionalmente e aplicar o que venho aprendendo. Enquanto isso, trabalho com freelances na área de mídias sociais, o que tem me ajudado a desenvolver habilidades importantes como organização, autonomia e comunicação, competências que também pretendo levar para a minha trajetória na tecnologia.
+  Atualmente, estou finalizando meu estágio como desenvolvedora, além de atuar com freelances em mídias sociais e construção de sites, expandindo agora para projetos internacionais. Essas experiências têm sido fundamentais para desenvolver competências como organização, gerenciamento de recursos e tempo, autonomia e comunicação, que também carrego para minha trajetória na tecnologia.
 
  </div>
 
